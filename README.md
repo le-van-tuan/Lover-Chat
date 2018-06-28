@@ -23,7 +23,7 @@ A Chat applition using spring boot and java web socket
 2. Open your cmd or terminal within my source code folder ( LINUX OS )
 3. Run application within command line : 
 mvn package
-java -jar target/websocket-demo-0.0.1-SNAPSHOT.jar
+java -jar target/chat-app-0.0.1-SNAPSHOT.jar
 
 - Chat application will be running on your local
 - Try to access to domain : http://localhost:8088 - Let's enjoy my app :D
